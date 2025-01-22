@@ -52,3 +52,29 @@ print(A @ B)
 x = np.array([6, 7, 8])
 
 print(M @ x)
+
+# shape of a matrix
+
+# The dimensions of a matrix are determined by the shape attribute
+
+print(M.shape) # which prints (3, 3) three rows and three columns
+
+# Matrix of zeroes
+
+# to initialize a matrix of zeroes
+
+M = np.zeros((2,4))
+
+print(M)
+
+# for matrix of ones
+
+M = np.ones((4,2))
+
+print(M)
+
+# for identity matrix
+
+I = np.eye(3)
+
+print(I)
