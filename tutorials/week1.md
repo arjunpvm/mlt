@@ -35,5 +35,18 @@ so k = 1 is enough for our dataset
 
 2. Represent the data using two principal component and find reconstruction error for each of the component
 ![](./img/9.png)
-![](./img/10.png)
 
+the above is the scalar projection of the points
+
+the below is th vector projection of the points
+![](./img/10.png)
+![](./img/11.png)
+
+Adding two projections we get
+![](./img/12.png)
+
+as the points are in R<sup>2</sup> we can get back to the original dataset when we use both the principal components
+![](./img/13.png)
+![](./img/14.png)
+![](./img/15.png)
+![](./img/16.png)
