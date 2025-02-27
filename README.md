@@ -6,7 +6,7 @@
     - [x] matrices in numpy
     - [ ] more on numpy arrays
     
-- [ ] Week 1
+- [x] Week 1
     - [x] lecture 1
     - [x] lecture 2 
     - [x] lecture 3 
@@ -15,20 +15,20 @@
     - [x] lecture 6 
     - [x] lecture 7
 
-    - [ ] tutorial
+    - [x] tutorial
 
 - [ ] Week 2
     - [x] lecture 1
-    - [ ] lecture 2
-    - [ ] lecture 3
-    - [ ] lecture 4
-    - [ ] lecture 5
+    - [x] lecture 2
+    - [x] lecture 3
+    - [x] lecture 4
+    - [x] lecture 5
 
     - [ ] tutorial
 
 - [ ] Week 3
-    - [ ] lecture 1
-    - [ ] lecture 2
+    - [x] lecture 1
+    - [x] lecture 2
     - [ ] lecture 3
     - [ ] lecture 4
     - [ ] lecture 5
