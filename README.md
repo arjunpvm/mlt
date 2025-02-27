@@ -1,8 +1,8 @@
 # MACHINE LEARNING TECHNIQUES
 ### LECTURES
 
-- [ ] Week 0
-    - [x] vectors in numpy
+- :white_check_mark: Week 0
+    - :x: vectors in numpy
     - [x] matrices in numpy
     - [ ] more on numpy arrays
     
