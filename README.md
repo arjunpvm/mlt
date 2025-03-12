@@ -4,8 +4,8 @@
 - :white_check_mark: Week 0
     - :white_check_mark: vectors in numpy
     - :white_check_mark: matrices in numpy
-    - [ ] more on numpy arrays
-    
+    - :white_check_mark: more on numpy arrays
+
 - :white_check_mark: Week 1
     - :white_check_mark: lecture 1
     - :white_check_mark: lecture 2 
@@ -17,24 +17,24 @@
 
     - :white_check_mark: tutorial
 
-- [ ] Week 2
+- :white_check_mark: Week 2
     - :white_check_mark: lecture 1
     - :white_check_mark: lecture 2
     - :white_check_mark: lecture 3
     - :white_check_mark: lecture 4
     - :white_check_mark: lecture 5
 
-    - [ ] tutorial
+    - :white_check_mark: tutorial
 
-- [ ] Week 3
+- :white_check_mark: Week 3
     - :white_check_mark: lecture 1
     - :white_check_mark: lecture 2
-    - [ ] lecture 3
-    - [ ] lecture 4
-    - [ ] lecture 5
-    - [ ] lecture 6
+    - :white_check_mark: lecture 3
+    - :white_check_mark: lecture 4
+    - :white_check_mark: lecture 5
+    - :white_check_mark: lecture 6
 
-    - [ ] tutorial
+    - :white_check_mark: tutorial
 
 - [ ] Week 4
 	- [ ] lecture 1
