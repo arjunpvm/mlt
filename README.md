@@ -49,15 +49,15 @@
 	- [ ] tutorial
 
 - [ ] Week 5
-	- [ ] lecture 1
-	- [ ] lecture 2
-	- [ ] lecture 3
-	- [ ] lecture 4
-	- [ ] lecture 5
-	- [ ] lecture 6
-	- [ ] lecture 7
+    - :white_check_mark: lecture 1
+    - :white_check_mark: lecture 2 
+    - :white_check_mark: lecture 3 
+    - :white_check_mark: lecture 4 
+    - :white_check_mark: lecture 5
+    - :white_check_mark: lecture 6 
+    - :white_check_mark: lecture 7
 
-	- [ ] tutorial
+    - [ ] tutorial
 
 - [ ] Week 6
 - [ ] Week 7
