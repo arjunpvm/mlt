@@ -61,6 +61,11 @@
 
 - [ ] Week 6
 - [ ] Week 7
+    - :white_check_mark: lecture 1
+    - :white_check_mark: lecture 2 
+    - :white_check_mark: lecture 3 
+    - :white_check_mark: lecture 4 
+    - :white_check_mark: lecture 5
 - [ ] Week 8
 - [ ] Week 9
 - [ ] Week 10
